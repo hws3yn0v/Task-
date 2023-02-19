@@ -1,0 +1,37 @@
+*{margin: 0%;
+  ;
+}
+
+.navbar{
+    background-color: gray;
+    color: white;
+}
+.asc{
+    text-align: right;
+    color: rgb(rgb(6rgb(62, 68, 62), 56), green, rgb(67, 67, 74));
+}
+.sb{
+    margin: 1%;
+} 
+.scr{
+    background-color: cornflowerblue;
+    color: white;
+    text-align: center;
+}
+.about{
+    background-color: white;
+    text-align: center;
+}
+.services{
+    background-color: whitesmoke;
+    text-align: center;
+}
+.us{
+    background-color: white;
+    text-align: center;
+}
+.ft{
+    background-color: gray;
+    text-align: center;
+    justify-content: end;
+}
